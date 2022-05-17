@@ -98,7 +98,6 @@ public:
 	}
 
 private:
-	int instance;
 	ScriptedDialogClass* dialog;
 	int textbox_id;
 	int ok_btn;
